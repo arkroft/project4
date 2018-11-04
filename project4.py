@@ -17,7 +17,6 @@ while i <= 4:
     if exist == 0:
         StOut = StOut + StIn[k]
         i = i + 1
-print(StOut)
 while Tries >= 1:
     play = input("let's play a game! (input 'yes' or 'no')")
     if play == "no":
